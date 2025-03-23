@@ -1,0 +1,4 @@
+cup
+bottle
+metal-can
+can
